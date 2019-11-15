@@ -1,2 +1,2 @@
-# Kaikeba CV 5th
-开课吧CV课程学习
+# AI Learning
+ML/CV/Python/算法学习
